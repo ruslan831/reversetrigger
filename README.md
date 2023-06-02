@@ -1,3 +1,3 @@
-# plusspeed
+# reversetrigger
 
-This is where she makes a mod.
+mod that makes the player change direction
